@@ -27,6 +27,8 @@ Most of the code I've written in the last 5 years that I own. You'll find:
 [<img align="left" alt="alexandre-payot | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][researchgate]
 
+  <br />
+
 ### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" 
