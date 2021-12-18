@@ -5,8 +5,7 @@ Bristol, UK, in 2015. I continued as a PhD student and succesfully defended my
 thesis in March 2020 on the "Topology Optimisation in External Aerodynamics".
 You'll find a lot of the software I have developed during that time on here.
 
-- 🔭 I’m currently working on engineering optimisation;
-- 🌱 Co-founder at DaptaBlade;
+- 🔭 I’m currently working on supporting the deep learning software and hardware at Graphcore;
 - 👯 I’m looking to collaborate on cool open source technical projects (bonus points if there are some maths sprinkled in);
 - 🧠 Contact me if you want to talk about discrete differential geometry;
 - ⚡ what is your best software development tip?
